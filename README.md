@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Asswin CR</h1>
-<h4 align="center">I'm Currently 3rd year Computer Science(AI) undergraduate student at Amrita University.</h4>
+<h4 align="center">I'm Currently 3rd year Computer Science(AI) undergraduate student at Amrita Viswa Vidyapeetham.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asswincr&label=Profile%20views&color=0e75b6&style=flat" alt="asswincr" /> </p>
 <img align="right" alt="hi"  width="300" class="rounded" src="https://user-images.githubusercontent.com/60437733/130283122-b2d461a2-45a5-45ac-bae8-15d99508ca7a.gif"  border->
