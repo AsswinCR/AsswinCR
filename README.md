@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asswincr&label=Profile%20views&color=0e75b6&style=flat" alt="asswincr" /> </p>
 <img align="right" alt="hi"  width="200" class="rounded" src="https://user-images.githubusercontent.com/60437733/130283122-b2d461a2-45a5-45ac-bae8-15d99508ca7a.gif"  border->
 
-- 💬 Ask me about **Data Science,Full-stack development**
+- 💬 Ask me about **Deep Machine Learning, NLP, Computer Vision**
 - 📫 How to reach me **crag85220@gmail.com/asswin.cr2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
