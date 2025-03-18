@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-AI Researcher with expertise in **Generative AI**, **Computer Vision**, **Deep Learning**, and **Reinforcement Learning**. I develop efficient, real-time AI models for edge devices, build scalable ML pipelines, and create LLM-based automation frameworks. Published multiple Q1 research papers demonstrating technical depth and innovation.
+AI Researcher with expertise in **Generative AI**, **Computer Vision**, **Deep Learning**, and **Reinforcement Learning**. I develop efficient, real-time AI models for edge devices, build scalable ML pipelines, and create LLM-based automation frameworks. Published Q1 research papers demonstrating technical depth and innovation.
 
 With a diverse technical background, I:
 - 🔬 Develop and optimize neural network architectures (CNNs, 3D CNNs, UNet) for real-world applications
