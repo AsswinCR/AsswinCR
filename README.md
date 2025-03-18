@@ -1,7 +1,7 @@
 # Asswin Chithra Ramesh
 
 <div align="center">
-  <h2>AI Researcher | Computer Vision Specialist | Deep Learning Expert</h2>
+  <h2>AI Research | Computer Vision  | Deep Learning | Generative AI </h2>
   <h3>MSc in Artificial Intelligence @ Nanyang Technological University, Singapore</h3>
   
   <p>
