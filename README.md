@@ -1,28 +1,198 @@
+# Asswin Chithra Ramesh
 
-<h1 align="center">Hi 👋, I'm Asswin CR</h1>
-<h4 align="center"> Artificial Intelligence(CS) Graduate student at NTU.</h4>
+<div align="center">
+  <h2>AI Researcher | Computer Vision Specialist | Deep Learning Expert</h2>
+  <h3>MSc in Artificial Intelligence @ Nanyang Technological University, Singapore</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/asswin-c-r-b8b8561a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:asswin.cr2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+    <a href="https://www.researchgate.net/"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+    <a href="https://dev.to/asswin_07"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
+    <a href="https://codesandbox.io/u/asswin07"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandbox"></a>
+  </p>
+  
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,aws,docker,kubernetes,git" alt="Skills" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asswincr&label=Profile%20views&color=0e75b6&style=flat" alt="asswincr" /> </p>
-<img align="right" alt="hi"  width="200" class="rounded" src="https://user-images.githubusercontent.com/60437733/130283122-b2d461a2-45a5-45ac-bae8-15d99508ca7a.gif"  border->
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Deep Machine Learning, NLP, Computer Vision**
-- 📫 How to reach me **asswin.cr2001@gmail.com/asswin001@e.ntu.edu.sg**
+AI Researcher with expertise in **Generative AI**, **Computer Vision**, **Deep Learning**, and **Reinforcement Learning**. I develop efficient, real-time AI models for edge devices, build scalable ML pipelines, and create LLM-based automation frameworks. Published multiple Q1 research papers demonstrating technical depth and innovation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asswin-c-r-b8b8561a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asswin-c-r-b8b8561a0/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/asswin07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/asswin07" height="30" width="40" /></a>
- <a href="https://dev.to/asswin_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/asswin_07" height="30" width="40" /></a>
-</p>
+With a diverse technical background, I:
+- 🔬 Develop and optimize neural network architectures (CNNs, 3D CNNs, UNet) for real-world applications
+- 🤖 Create scalable machine learning pipelines leveraging cloud infrastructure (AWS SageMaker, EC2)
+- 🧠 Build multi-agent LLM systems and automation frameworks using cutting-edge AI technologies
+- 📊 Design state-of-the-art solutions for complex problems across various domains
+- 📱 Deploy models to edge devices while maintaining high performance and accuracy
+- 📝 Publish research in high-impact journals demonstrating innovative approaches to AI challenges
 
-</p>
+## 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td>
+      <h3>Automated Research Paper Implementation using Multi-Agent LLM Framework</h3>
+      <p>Developed a fully autonomous multi-agent AI pipeline (GPT-4o, Claude, Autogen) for automating research paper analysis and implementation without human intervention.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GPT--4o-OpenAI-412991?style=flat-square" />
+        <img src="https://img.shields.io/badge/Autogen-Microsoft-3670A0?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG-LlamaIndex-FF6F00?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Evaluating LLM Performance on Browser Tasks (WebArena Project)</h3>
+      <p>Designed experimental evaluations to assess LLM capabilities in automating complex browser tasks using SFT and QLoRA, benchmarking 812 browser-based tasks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Llama--3-Meta-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/QLoRA-Fine--tuning-EE4C2C?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Semantic Segmentation with Domain Adaptation using CycleGAN</h3>
+      <p>Utilized CycleGAN for synthetic-to-real domain adaptation, improving U-Net segmentation accuracy on real-world images from GTA5 to Cityscapes datasets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CycleGAN-PyTorch-EE4C2C?style=flat-square" />
+        <img src="https://img.shields.io/badge/U--Net-Segmentation-3670A0?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Blind Face Super-Resolution for Enhanced Image Generation</h3>
+      <p>Built CNN-based super-resolution models (MSRResNet-B20, EDSR) achieving high-quality facial reconstruction from degraded images with a PSNR of 26.64.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Super--Resolution-CNN-3670A0?style=flat-square" />
+        <img src="https://img.shields.io/badge/PSNR-26.64-4285F4?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asswincr&show_icons=true&locale=en&layout=compact" alt="asswincr"  width="20" /></p>
+## 💼 Professional Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asswincr&show_icons=true&locale=en" alt="asswincr" /></p>
+<table>
+  <tr>
+    <td>
+      <h3>Computer Vision Researcher</h3>
+      <p><b>Rapsodo Private Ltd, Singapore</b> (Sep 2024 – Jan 2025)</p>
+      <ul>
+        <li>Developed lightweight CNN model for real-time golf club speed estimation</li>
+        <li>Reduced inference error by 80% (from 5% to 1.08%)</li>
+        <li>Designed novel CNN attention architecture for golf ball spin parameters</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>AI Researcher</h3>
+      <p><b>Robert Bosch, Singapore</b> (May 2024 – Nov 2024)</p>
+      <ul>
+        <li>Developed RL pipeline (PPO) for HVAC energy management optimization</li>
+        <li>Achieved 87% reduction in training time and 60.78% reduction in cost</li>
+        <li>Used Ray and PyTorch DDP for scalable training across multiple instances</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Multimodal Machine Learning Intern</h3>
+      <p><b>Dementia Research Centre, Singapore</b> (Nov 2023 – Jan 2024)</p>
+      <ul>
+        <li>Implemented deep learning models (3D CNN, UNet) for early detection of Alzheimer's disease from MRI images</li>
+        <li>Improved diagnostic accuracy using Medial Temporal Atrophy (MTA) scoring</li>
+        <li>Enhanced model performance by analyzing and preprocessing multimodal medical imaging data</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Generative AI Research Assistant (AI/NLP)</h3>
+      <p><b>Nanyang Technological University, Singapore</b> (Oct 2023 – Feb 2025)</p>
+      <ul>
+        <li>Developed an end-to-end video validation pipeline using NLP and speech-to-text (OpenAI Whisper API)</li>
+        <li>Generated, timestamped, and validated video transcripts, automating previously manual workflows</li>
+        <li>Built a monitoring and validation UI with web scraping for enhanced data acquisition</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Robotic Automation Intern</h3>
+      <p><b>Yaskawa Pvt. Ltd., India</b> (May 2022 – Jul 2022)</p>
+      <ul>
+        <li>Programmed and simulated arc welding and palletizing robots using MotoSim EG-VRC & pendant</li>
+        <li>Modeled and analyzed 3D robotics palletizing algorithm and mechanics for mixed carton sizes</li>
+        <li>Developed a C++ algorithm to effectively use robot's memory during data transfer</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Machine Learning Intern</h3>
+      <p><b>Technocolabs Softwares, India</b> (Sept 2021 – Dec 2021)</p>
+      <ul>
+        <li>Developed a ML algorithm to predict stock market price movements based on O/H/C/L/V data</li>
+        <li>Deployed the predictive model on Heroku server for real-time predictions</li>
+        <li>Utilized Python, Django, Flask, and Heroku for the end-to-end implementation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asswincr&" alt="asswincr" /></p>
+## 🧠 Technical Skills
 
+<table>
+  <tr>
+    <td align="center" width="20%"><b>AI & Deep Learning</b></td>
+    <td>PyTorch, TensorFlow, Keras, CNN Architectures (UNet, MSRResNet-B20, EDSR), Attention Mechanisms, GANs, Image Enhancement, 3D CNN</td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>LLM & NLP</b></td>
+    <td>Transformers, GPT, RAG, Autogen, LangChain, LlamaIndex, LangGraph, Ollama, SpaCy, Lite LLM</td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>ML Operations</b></td>
+    <td>AWS EC2, AWS SageMaker, Docker, Kubernetes, CI/CD, Git, DevOps, Apache Spark, S3, Parquet</td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Programming</b></td>
+    <td>Python (Advanced), C++, Java, MATLAB, R, SQL, HTML/CSS, Prompt Engineering</td>
+  </tr>
+</table>
+
+## 📝 Research Publications
+
+<table>
+  <tr>
+    <td>
+      <h4>Pediatric Pneumonia diagnosis using stacked ensemble learning on multimodal CNN architectures</h4>
+      <i>Journal of Multimedia Tools and Applications</i> (Scopus Q1 - 81%)
+      <p>Developed an enhanced image preprocessing pipeline using CLAHE and stacked ensemble deep CNN architectures for pneumonia detection. Achieved 98.62% accuracy, 98.99% precision.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Scopus-Q1-00A4EF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Accuracy-98.62%25-success?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>Transfer Learning Approach for pediatric pneumonia diagnosis using channel-attention CNN architectures</h4>
+      <i>Journal of Computerized Medical Imaging and Graphics</i> (Scopus Indexed)
+      <p>Implemented deep CNN models enhanced with cross-channel attention (inspired by Squeeze and Excitation Networks), demonstrating generalizability across diverse lung-disease datasets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Scopus-Indexed-00A4EF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Accuracy-96.15%25-success?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=asswincr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
