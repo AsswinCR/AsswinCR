@@ -13,7 +13,32 @@
     <a href="https://codesandbox.io/u/asswin07"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandbox"></a>
   </p>
   
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,aws,docker,kubernetes,git" alt="Skills" />
+
+   <div>
+    <!-- Core Languages & Tools -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <!-- Gen AI & LLM Tools Row 1 -->
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/LangChain-3178C6?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/AutoGen-38B2AC?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen"/>
+    <!-- Gen AI & LLM Tools Row 2 -->
+    <img src="https://img.shields.io/badge/LangGraph-4285F4?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph"/>
+    <img src="https://img.shields.io/badge/Crew_AI-FF5A5F?style=flat-square&logo=react&logoColor=white" alt="Crew AI"/>
+    <img src="https://img.shields.io/badge/LlamaIndex-008080?style=flat-square&logo=llama&logoColor=white" alt="LlamaIndex"/>
+    <!-- Gen AI & LLM Tools Row 3 -->
+    <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/Ollama-124F5C?style=flat-square&logo=llama&logoColor=white" alt="Ollama"/>
+    <img src="https://img.shields.io/badge/Anthropic-4A154B?style=flat-square&logo=a&logoColor=white" alt="Anthropic"/>
+  </div>
+</div>
+  
 </div>
 
 ## 👨‍💻 About Me
